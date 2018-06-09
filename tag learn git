@@ -1,0 +1,23 @@
+[33mtag v0.1[m
+Tagger: sheshunjiang <33620242+sheshunjiang@users.noreply.github.com>
+Date:   Sat Jun 9 14:15:15 2018 +0800
+
+my version 0.1
+
+[33mcommit 4500dc69551bf137bd6c6b1e567b933fb46fa45f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v0.1[m[33m, [m[1;31mlearngit/master[m[33m)[m
+Author: sheshunjian <40065447+sheshunjian@users.noreply.github.com>
+Date:   Sat Jun 9 10:33:35 2018 +0800
+
+    update
+    
+    dfdfdf
+
+[1mdiff --git a/1.txt b/1.txt[m
+[1mindex f3bfe79..5fbfc13 100644[m
+[1m--- a/1.txt[m
+[1m+++ b/1.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-Êµ´òÊµ´óÈö[m
+\ No newline at end of file[m
+[32m+[m[32mÊµï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½[m
+[32m+[m[32mä½ å¥½ï¼[m
